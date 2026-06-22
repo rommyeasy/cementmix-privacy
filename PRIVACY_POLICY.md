@@ -11,17 +11,16 @@ La App funziona interamente in locale sul tuo dispositivo. Tutti i calcoli e i d
 
 ## Dati tecnici (Servizi di terze parti)
 La App potrebbe utilizzare librerie di sistema standard per il funzionamento. **Non** integra servizi di analisi (analytics), pubblicità comportamentale o social network che tracciano l'utente. 
-*(Se in futuro integrerai Google AdMob o Firebase, dovrai modificare questa sezione per menzionarli esplicitamente).*
 
 ## Permessi richiesti
-La App richiede solo i permessi strettamente necessari al suo funzionamento (es. accesso alla fotocamera se prevedi la scansione, o allo storage se prevedi il salvataggio di PDF). In ogni caso, non vengono mai utilizzati per tracciare l'utente.
+La App richiede solo i permessi strettamente necessari al suo funzionamento. In ogni caso, non vengono mai utilizzati per tracciare l'utente.
 
 ## Consenso
 Utilizzando la App, acconsenti alla presente informativa sulla privacy.
 
 ## Contatti
 Per qualsiasi domanda riguardante questa privacy policy, puoi contattarmi all'indirizzo: 
-**[INSERISCI LA TUA EMAIL QUI]** (sostituisci con la tua mail).
+**roman.dobynda2gmail.com**.
 
 ## Modifiche alla presente policy
 Ci riserviamo il diritto di aggiornare questa politica. Eventuali modifiche verranno pubblicate su questa pagina.
